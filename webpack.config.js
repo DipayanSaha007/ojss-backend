@@ -30,7 +30,6 @@ module.exports = {
       },
     ],
   },
-
   // Optional: Add devtool for easier debugging
   devtool: 'source-map',
 
