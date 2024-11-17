@@ -22,9 +22,12 @@
     "nodemon": "^3.1.7"
   },
   "devDependencies": {
-    "webpack": "^5.96.1",
-    "webpack-cli": "^5.1.4"
-  },
+  "webpack": "^5.x.x",
+  "webpack-cli": "^4.x.x",
+  "babel-loader": "^8.x.x",
+  "style-loader": "^2.x.x",
+  "css-loader": "^6.x.x"
+},
   "engines": {
     "node": ">=14.0.0"
   },
