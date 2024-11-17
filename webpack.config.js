@@ -1,5 +1,4 @@
 const path = require('path');
-
 module.exports = {
   // The entry point for your application
   entry: './index.js', // Make sure to replace with your actual entry point
