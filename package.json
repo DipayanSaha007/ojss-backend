@@ -22,12 +22,12 @@
     "nodemon": "^3.1.7"
   },
   "devDependencies": {
-  "webpack": "^5.x.x",
-  "webpack-cli": "^4.x.x",
-  "babel-loader": "^8.x.x",
-  "style-loader": "^2.x.x",
-  "css-loader": "^6.x.x"
-},
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0",
+    "babel-loader": "^8.3.0",
+    "style-loader": "^2.0.0",
+    "css-loader": "^6.0.0"
+  },
   "engines": {
     "node": ">=14.0.0"
   },
