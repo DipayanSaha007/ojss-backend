@@ -32,6 +32,13 @@ module.exports = {
   // Optional: Add devtool for easier debugging
   devtool: 'source-map',
 
+  resolve: {
+    alias: {
+        path: require.resolve("path-browserify"),
+    },
+},
+
+
   // Optional: Set up the development server for testing locally
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
